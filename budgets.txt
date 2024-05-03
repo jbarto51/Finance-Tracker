@@ -1,0 +1,2 @@
+Budgets:
+Category: food, Amount: $600

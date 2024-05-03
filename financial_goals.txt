@@ -1,0 +1,6 @@
+Goal Name: vacation
+Target Amount: $500
+Deadline: 05-06-2024
+Current Amount: $200
+Progress: 40% completed
+--------------------------

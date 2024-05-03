@@ -1,0 +1,4 @@
+Financial Report:
+Total Income: $500
+Total Expenses: $400
+Net Profit: $6.92477e-310
